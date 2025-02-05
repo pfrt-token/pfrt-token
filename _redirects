@@ -1,9 +1,9 @@
 /gas1   https://example.com
 /gas2   https://example.com
 /gas3   https://example.com
-/tg
-/x
+/tg     https://telegram.org
+/x      https://x.com
 /info   https://www.health.com/condition/sexual-health/what-is-a-queef
 
 # fallback
-/*       https://your-website.com
+/*       https://google.com
