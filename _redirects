@@ -1,9 +1,8 @@
-/gas1   https://example.com
-/gas2   https://example.com
-/gas3   https://example.com
-/tg     https://telegram.org
-/x      https://x.com
+/gas    https://pfart.webflow.com
+/gas2   https://pfartcoin.wordpress.com/
+/tg     https://t.me/pfart_coin
+/x	    https://x.com/PFARCTOIN
 /info   https://www.health.com/condition/sexual-health/what-is-a-queef
 
 # fallback
-/*       https://google.com
+/*      https://pfart.webflow.com
